@@ -22,4 +22,3 @@ number = random.randint(0, len(lineas)-1)
 print(number)
 sendmessage(str(lineas[number]))
 file.close()
-
