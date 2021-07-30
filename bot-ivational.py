@@ -3,11 +3,18 @@
 import subprocess
 import random
 import time
+import platform
+from win10toast import ToastNotifier
 
 time.sleep(random.randint(900, 1800))
-def sendmessage(message):
-    subprocess.Popen(['notify-send', message])
-    return
+def sendmessage(message): #add suport to windows
+    if(platform.system=="linux"): 
+        subprocess.Popen(['notify-send', message])
+        return
+    else:
+        toaster = ToastNotifier()
+        toaster.show_toast("",message)
+
 
 file = open("motivational.txt", "r")
 lineas = file.readlines()
