@@ -1,4 +1,7 @@
-dale segui asi no seas paja
-no boludees
-probando 123
-programando con Bisdro
+“El hardware es lo que hace a una máquina rápida; el software es lo que hace que una máquina rápida se vuelva lenta” – Craig Bruce
+“Ley de Alzheimer de la programación: si lees un código que escribiste hace más de dos semanas es como si lo vieras por primera vez” – Dan Hurvitz
+“Si el código y los comentarios no coinciden, posiblemente ambos sean erróneos” –  Norm Schryer
+“La tecnología por sí sola no basta. También tenemos que poner el corazón” – Jane Goodall
+“Está bien investigar y resolver misteriosos asesinatos, pero no deberías necesitar hacerlo con el código. Simplemente deberías poder leerlo” – Steve McConnell
+“Un mal PROGRAMADOR puede crear fácilmente dos nuevos empleos al año” –  David Parnas
+“El software es un gas: se expande hasta llenar su contenedor” – Nathan Myhrvold
